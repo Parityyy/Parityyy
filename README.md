@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-| Activity | Languages |
-|----------|-----------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parityyy&show_icons=true&theme=radical&hide=stars&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parityyy&layout=compact&theme=radical) |
-
----
-
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis%20Bindschedler-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/louis-bindschedler-4b7b54378)
