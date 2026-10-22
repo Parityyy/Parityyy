@@ -1,25 +1,16 @@
-# Hello, I'm Louis, aka Parityyy 🦆
+<img src="./duck-pixel.png" width="110" alt="Pixel-art duck in blue gradients">
 
-I'm currently studying **Cybersecurity & IT** at HEIG-VD  
-I'm a PiBS intern at the **CHUV Training Center**, working on a web application using **React** and **Node.js**, and contributing to the **migration of MySQL databases**
+# Hi, I'm Louis, aka Parityyy
 
----
+I'm studying cybersecurity at HEIG-VD and doing a PiBS internship at CHUV. I like taking software that has aged or been put together quickly and making it clearer, safer and easier to maintain.
 
-## Tools & Technologies
+- PiBS internship at CHUV
+- BSc in cybersecurity at HEIG-VD, finishing in 2028
+- Interested in infrastructure, OSINT and connected devices (IoT)
+- CTF challenges when I have some spare time, mostly OSINT
 
-![Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,docker,linux,git,html,css,cpp,c&perline=6)
+## Tools
 
----
+![Tools](https://skillicons.dev/icons?i=rust,c,cpp,java,python,js,react,nodejs,mysql,postgres,docker,linux,git&perline=7)
 
-## What I'm working on
-
-- Full-stack web development (React / Node.js)
-- Database architecture and migration (MySQL)
-- Applying cybersecurity best practices in development
-- Working with Docker, Linux, Git, and other tools
-
----
-
-## Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis%20Bindschedler-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/louis-bindschedler-4b7b54378)
+I'm open to opportunities and side projects. The easiest way to reach me is on [LinkedIn](https://www.linkedin.com/in/louis-bindschedler-4b7b54378).
