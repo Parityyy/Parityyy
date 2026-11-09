@@ -7,7 +7,7 @@ I'm studying cybersecurity at HEIG-VD and doing a PiBS internship at CHUV. I lik
 - PiBS internship at CHUV
 - BSc in cybersecurity at HEIG-VD, finishing in 2028
 - Interested in infrastructure, OSINT and connected devices (IoT)
-- CTF challenges when I have some spare time, mostly OSINT
+- CTF challenges when I have some spare time
 
 ## Tools
 
